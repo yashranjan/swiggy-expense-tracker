@@ -1,5 +1,8 @@
-sampleresp.json
-sampleresp2.json
 __pycache__/*
 *.pyc
+
+.vscode
+venv
+
 cookies.json
+*.xls
